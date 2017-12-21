@@ -2,7 +2,7 @@
 ----------
 Somos una agencía de desarrollo web, especializado en el desarrollo de sistemas web, páginas presenciales, corporativas.
 
-Diseñamos un producto delicada y especialmente tu marca.
+Diseñamos un producto especialmente a las características de tu marca.
 
 ### Contacto
 
