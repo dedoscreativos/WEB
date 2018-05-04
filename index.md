@@ -1,8 +1,8 @@
 # Consultora - Dedos Creativos 
 ----------
-Somos una agencía de desarrollo web, especializado en el desarrollo de sistemas web, páginas presenciales, corporativas.
+Somos una agencía de desarrollo web, Nos especializamos en el desarrollo de sistemas, creación y diseño de páginas web presenciales, corporativas, institucionales y más. 
 
-Diseñamos un producto especialmente a las características de tu marca.
+Creando productos increibles. 
 
 ### Contacto
 
