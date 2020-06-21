@@ -9,6 +9,6 @@ Creando productos increibles.
 
 CO Victor Escalante
 
-mail: victor_escalante@me.com
+mail: ludwig_escalante@icloud.com
 
-tel: (722) 32 68 9 43
+tel: (55) 66 94 13 83
